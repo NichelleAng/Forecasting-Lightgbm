@@ -14,13 +14,11 @@ lightning_logs/
 tft_checkpoints_*/
 models/
 outputs/
+data/
+tft_ckpt_warmup/
 
 # virtual environment
 .venv/
 
 # vscode setting lokal
 .vscode/
-
-Sistem-Forecasting-Nichelle/
-Skripsi-Nichelle/
-
